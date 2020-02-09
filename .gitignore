@@ -1,0 +1,8 @@
+# Ignore everything
+/*
+
+# But not these files...
+!Problems
+!Simple Chatty Bot/
+!.gitignore
+!.gitattributes
